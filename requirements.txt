@@ -1,6 +1,6 @@
 streamlit
 Pillow
 google-generativeai
-speech-recognition
+speechrecognition
 pyaudio
 streamlit-webrtc
