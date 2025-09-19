@@ -1,0 +1,7 @@
+streamlit
+google.generativeai
+io
+base64
+speech_recognition
+tempfile
+streamlit_webrtc
