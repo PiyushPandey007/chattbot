@@ -1,6 +1,4 @@
 streamlit
 google.generativeai
-base64
 speech_recognition
-tempfile
 streamlit_webrtc
