@@ -4,7 +4,7 @@ from PIL import Image
 import io
 import base64
 # Set your Gemini API key (replace with your actual key)
-genai.configure(api_key="AIzaSyCyK7O9OtRpyKOsvjMV4XR2NIPn3yCCnWs")
+genai.configure(api_key="GEMINI_API_KEY")
 
 def get_image_and_text_response(image_bytes=None, text_prompt=None):
     model = genai.GenerativeModel("gemini-2.5-flash")
