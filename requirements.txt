@@ -8,7 +8,7 @@ google-generativeai==0.7.2
 Pillow==10.4.0
 
 # Audio input (Speech Recognition)
-SpeechRecognition==3.10.4
+speechrecognition==3.10.4
 pyaudio==0.2.14
 
 # WebRTC for real-time audio/video support in Streamlit
