@@ -9,7 +9,7 @@ Pillow==10.4.0
 
 # Audio input (Speech Recognition)
 speechrecognition==3.10.4
-
+pyaudio
 # WebRTC for real-time audio/video support in Streamlit
 streamlit-webrtc==0.47.1
 
