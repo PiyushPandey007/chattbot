@@ -8,7 +8,7 @@ import tempfile
 import streamlit_webrtc as webrtc
 
 # Configure Gemini API
-genai.configure(api_key = "GEMINI_API_KEY")
+genai.configure(api_key = st.secrets[ "GEMINI_API_KEY"])
 
 def get_image_and_text_response(image_bytes=None, text_prompt=None):
     model = genai.GenerativeModel("gemini-2.5-flash")
