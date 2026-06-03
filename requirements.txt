@@ -1,18 +1,2 @@
-# Core app
-streamlit==1.38.0
-
-# Google Gemini API client
-google-generativeai==0.7.2
-
-# Image handling
-Pillow==10.4.0
-
-# Audio input (Speech Recognition)
-speechrecognition==3.10.4
-pyaudio
-# WebRTC for real-time audio/video support in Streamlit
-streamlit-webrtc==0.47.1
-
-# Other essentials
-
-numpy==1.26.4
+streamlit
+pandas
