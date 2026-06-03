@@ -1,7 +1,6 @@
 pandas
 streamlit
-google-generativeai
 Pillow
-streamlit
 SpeechRecognition
 streamlit-webrtc
+google-generativeai==0.5.4
